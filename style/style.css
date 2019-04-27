@@ -39,7 +39,7 @@
     font-size: 200px;
   }
 
-	.logo-white {
+  .logo-white {
     color: white;
     font-size: 200px;
 	}
@@ -82,7 +82,14 @@
   .panel:hover {
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
   }
-.thumbnail:hover{
+		.social{
+			opacity: .5;
+		}
+  .social:hover{
+		box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+			opacity: 1;
+  }
+  .thumbnail:hover{
 	box-shadow: 5px 0px 40px rgba(9,0,0, 1);
 	-webkit-transform: scale(1.1);
                   -moz-transform: scale(1.1);
@@ -117,7 +124,7 @@
   }
   .panel-footer .btn {
     margin: 15px 0;
-    background-color: #363435;
+    background-color: #aaa;
     color: #fff;
   }
   .navbar {
