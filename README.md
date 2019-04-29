@@ -8,5 +8,6 @@ ________________________________________________________________________________
 
 Notas:
 - Configurei a imagem do banner para quando estiver em uma janela menor do que 768px ter o "width:85%", tornando-a responsiva;
-- Adicionei efeitos com JavaScript/JQuery para suavizar;
-- Coloquei a logo e alguns textos genéricos para serem substituidos quando os originais ficarem prontos.
+- Adicionei efeitos com JavaScript/JQuery para suavizar as rolagens e colocar o back to the top;
+- Coloquei a logo e alguns textos genéricos para serem substituidos quando os originais ficarem prontos;
+- Adicionada imagem .png;
